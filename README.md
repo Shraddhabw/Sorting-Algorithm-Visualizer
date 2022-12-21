@@ -2,7 +2,7 @@
 
 
 Visualization of sorting algorithm using javascript.  
-Select new array of any size , then choose particular sorting button according to which sort you want to perform.
+Select new array of any size , then choose particular sorting button according to sort which you want to visualize.
 
 ## Algorithms Used
 1.Bubble Sort  
