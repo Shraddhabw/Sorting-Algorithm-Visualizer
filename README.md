@@ -17,3 +17,6 @@ Select new array of any size , then choose particular sorting button according t
 
 5.Selection Sort  
 
+## Demo
+
+https://algo-visualizer-ss.netlify.app/
